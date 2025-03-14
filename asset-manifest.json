@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cs378-p4/static/css/main.c8f32ec5.css",
-    "main.js": "/cs378-p4/static/js/main.8300cd64.js",
+    "main.css": "/cs378-p4/static/css/main.c2ccffed.css",
+    "main.js": "/cs378-p4/static/js/main.a62de434.js",
     "static/js/453.ed3810f9.chunk.js": "/cs378-p4/static/js/453.ed3810f9.chunk.js",
     "static/media/default-pokemon-sprite.png": "/cs378-p4/static/media/default-pokemon-sprite.eb1d96397dd5958f4375.png",
     "index.html": "/cs378-p4/index.html",
-    "main.c8f32ec5.css.map": "/cs378-p4/static/css/main.c8f32ec5.css.map",
-    "main.8300cd64.js.map": "/cs378-p4/static/js/main.8300cd64.js.map",
+    "main.c2ccffed.css.map": "/cs378-p4/static/css/main.c2ccffed.css.map",
+    "main.a62de434.js.map": "/cs378-p4/static/js/main.a62de434.js.map",
     "453.ed3810f9.chunk.js.map": "/cs378-p4/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8f32ec5.css",
-    "static/js/main.8300cd64.js"
+    "static/css/main.c2ccffed.css",
+    "static/js/main.a62de434.js"
   ]
 }
